@@ -5,7 +5,7 @@ This project analyzes literacy trends across Indian states using census data. It
 To analyze literacy distribution across Indian states and UTs using population and literate counts, enabling regional comparison, data-driven education planning, and strategic social development insights.
 
 
-📊 Key Performance Indicators (KPIs)
+# Key Performance Indicators (KPIs)
 | KPI Name 
 | 👨‍👩‍👧‍👦 Total Population 
 | 📖 Total Literates
