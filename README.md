@@ -1,5 +1,5 @@
 # India-Literacy-Census-Analysis
-This project analyzes literacy trends across Indian states using census data. It highlights regional gaps, identifies top-performing states, and provides insights for targeted education planning and social development strategies.
+This Excel Dashboard analyzes literacy trends across Indian states using census data. It highlights regional gaps, identifies top-performing states, and provides insights for targeted education planning and social development strategies.
 
 # Project Objective
 To analyze literacy distribution across Indian states and UTs using population and literate counts, enabling regional comparison, data-driven education planning, and strategic social development insights.
