@@ -6,7 +6,6 @@ To analyze literacy distribution across Indian states and UTs using population a
 
 
 # Key Performance Indicators (KPIs)
-| KPI Name 
 | 👨‍👩‍👧‍👦 Total Population 
 | 📖 Total Literates
 | 📈 National Literacy Rate
